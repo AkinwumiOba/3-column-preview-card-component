@@ -129,6 +129,7 @@ button {
     display: flex;
     flex-direction: row;
   }
+
   .sedans {
     height: 520px;
     border-top-right-radius: 0px;
